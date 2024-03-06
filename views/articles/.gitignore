@@ -1,0 +1,5 @@
+view\articles
+node_modules
+models 
+routes 
+server.js
